@@ -41,3 +41,7 @@ svg { border: 1px solid #ccc }
     text-decoration: none;
     cursor: pointer;
 }
+
+.usage {
+    font-family: Product Sans;
+}
